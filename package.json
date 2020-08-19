@@ -3,6 +3,6 @@
     "description": "TTGO T-Display Emulator",
     "name": "ttgo-tdisplay-emulator",
     "system": "linux_x86_64",
-    "url": "...",
+    "url": "https://github.com/dzo/ttgo-tdisplay-emulator",
     "version": "1.0.0"
 }
