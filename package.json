@@ -1,0 +1,8 @@
+
+{
+    "description": "TTGO T-Display Emulator",
+    "name": "ttgo-tdisplay-emulator",
+    "system": "linux_x86_64",
+    "url": "...",
+    "version": "1.0.0"
+}
